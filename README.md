@@ -6,3 +6,5 @@ Building:
 
 Running:
 * ./objtest.nix [obj file] [texture file] [view scale]
+
+<img src="http://i.cubeupload.com/Cx9l5l.png">
